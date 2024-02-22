@@ -80,7 +80,7 @@ const PageDesign =()=>{
                 <tr >
                 <td className="px-6 py-4">Fri 9 Feb,2:32 PM</td>
                 <td className="px-6 py-4">10,000<span>.00</span></td>
-                <td className="px-6 py-4">Queued</td>
+                <td className="px-6 py-4"><h1 className="rounded-lg bg-yellow-700 w-16 text-yellow-500 text-center">Queued</h1></td>
                 <td className="px-6 py-4">Shivam Arora</td>
                 <td className="px-6 py-4">Aditya Sharma</td>
                 <td className="px-6 py-4">--</td>
@@ -88,7 +88,7 @@ const PageDesign =()=>{
                 <tr>
                 <td className="px-6 py-4">Fri 9 Feb,1:25 PM</td>
                 <td className="px-6 py-4">10,000<span>.00</span></td>
-                <td className="px-6 py-4">Queued</td>
+                <td className="px-6 py-4"><h1 className="rounded-lg bg-yellow-700 w-16 text-yellow-500 text-center">Queued</h1></td>
                 <td className="px-6 py-4">Ujjwal</td>
                 <td className="px-6 py-4">Aditya Sharma</td>
                 <td className="px-6 py-4">--</td>
@@ -96,7 +96,7 @@ const PageDesign =()=>{
                 <tr>
                 <td className="px-6 py-4">Fri 9 Feb,12:04 PM</td>
                 <td className="px-6 py-4">10,000<span>.00</span></td>
-                <td className="px-6 py-4">Queued</td>
+                <td className="px-6 py-4"><h1 className="rounded-lg bg-yellow-700 w-16 text-yellow-500 text-center">Queued</h1></td>
                 <td className="px-6 py-4">Amit Kumar</td>
                 <td className="px-6 py-4">Aditya Sharma</td>
                 <td className="px-6 py-4">--</td>
@@ -104,7 +104,7 @@ const PageDesign =()=>{
                 <tr>
                 <td className="px-6 py-4">Thu 8 Feb,3:52 PM</td>
                 <td className="px-6 py-4">50,000<span>.00</span></td>
-                <td className="px-6 py-4">Queued</td>
+                <td className="px-6 py-4"><h1 className="rounded-lg bg-yellow-700 w-16 text-yellow-500 text-center">Queued</h1></td>
                 <td className="px-6 py-4">Harsh</td>
                 <td className="px-6 py-4">Aditya Sharma</td>
                 <td className="px-6 py-4">--</td>
@@ -112,7 +112,7 @@ const PageDesign =()=>{
                 <tr>
                 <td className="px-6 py-4">Tue 6 Feb,4:09 PM</td>
                 <td className="px-6 py-4">10,000<span>.00</span></td>
-                <td className="px-6 py-4">Queued</td>
+                <td className="px-6 py-4"><h1 className="rounded-lg bg-yellow-700 w-16 text-yellow-500 text-center">Queued</h1></td>
                 <td className="px-6 py-4">Random Verma</td>
                 <td className="px-6 py-4">Aditya Sharma</td>
                 <td className="px-6 py-4">--</td>
